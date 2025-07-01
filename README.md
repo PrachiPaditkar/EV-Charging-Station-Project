@@ -10,7 +10,7 @@ Generate visualizations to communicate findings effectively.
 🛠️ Tools & Technologies-
 Language- Python.
 Libraries-
-pandas – for data manipulation,
+pandas – for data manipulation |
 matplotlib, seaborn, plotly – for data visualization.
 📂 Data Source- Kaggle
 📊 Visualizations-
